@@ -25,5 +25,5 @@ DOM manipulation,
 Event listeners,
 CSS animations
 
-📜 License
+📜 License:
 This project is built for learning and practice purposes.
