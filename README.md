@@ -5,25 +5,25 @@ The player controls a character who must jump over incoming tortoise shells (obs
 
 Built using HTML, CSS, and JavaScript.
 
-🎯 Gameplay
-1-🐢 Tortoise shells move toward the player
-2-⬆️ Press the Spacebar / Arrow Up to jump
-3-❌ Game ends on collision
-4-📈 Score increases as you survive longer
+🎯 Gameplay->
+🐢 Tortoise shells move toward the player->
+⬆️ Press the Spacebar / Arrow Up to jump->
+❌ Game ends on collision->
+📈 Score increases as you survive longer
 
 The goal is to survive as long as possible without hitting an obstacle.
 
-🛠️ Built With
-1-HTML – Structure
-2-CSS – Styling and animations
-3-JavaScript – Game logic and collision detection
+🛠️ Built With->
+HTML – Structure, 
+CSS – Styling and animations, 
+JavaScript – Game logic and collision detection
 
-🧠 Concepts Used
-1.Game loop logic
-2.Collision detection
-3.DOM manipulation
-4.Event listeners
-5.CSS animations
+🧠 Concepts Used->
+Game loop logic,
+Collision detection,
+DOM manipulation,
+Event listeners,
+CSS animations
 
 📜 License
 This project is built for learning and practice purposes.
